@@ -14,7 +14,7 @@ permalink: /
 # PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE
 
 ##  Features
-* I am a freelancer developer using Java and Python. I am finding a remote job. If you are interest in, please drop me a line. inter18099#hotmail.com
+* I am a freelancer developer using Java and Python. I am finding a remote job. If you are interest in, please drop me a line: inter18099#hotmail.com
 
 * My [**GitHub**](https://github.com/inter18099).
 
