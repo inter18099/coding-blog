@@ -2,7 +2,7 @@
 title: 魔法师-小张
 owner: "小张"
 url: "https://inter18099.github.io"
-baseurl: "/inter18099"
+baseurl: "/coding-blog"
 permalink: /:title/
 description: ""
 markdown: kramdown
