@@ -19,8 +19,3 @@ permalink: /
 * My [**GitHub**](https://github.com/inter18099).
 
 * I like coding, music, biking, climbing.
-
-## Download and Documentation
-
-[**pRoJEct NeGYa (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
-
