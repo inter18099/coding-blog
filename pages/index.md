@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE
+# Feng Zhang's world - a coding freelancer
 
 ##  Features
 * I am a freelancer developer using Java and Python. I am finding a remote job. If you are interest in, please drop me a line: inter18099#hotmail.com
